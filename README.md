@@ -12,4 +12,5 @@
 - wordcloud
 - nltk
 
-Một số thư viện khác có thể được cài đặt thêm khi chạy chương trình bằng cách dùng pip.
+Một số thư viện khác có thể được cài đặt thêm khi chạy chương trình bằng cách dùng pip. Và trước khi chạy thì cần phải lấy dữ liệu tại https://www.kaggle.com/datasets/andrewmvd/steam-reviews
+Và tải dataset.csv về 
