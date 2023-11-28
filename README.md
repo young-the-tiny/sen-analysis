@@ -6,7 +6,9 @@
 - seaborn
 - sklearn
 - xgboost
-- pytorch
+- torch
+- torchtext
+- imblearn
 - wordcloud
 - nltk
 
