@@ -9,4 +9,5 @@
 - pytorch
 - wordcloud
 - nltk
+
 Một số thư viện khác có thể được cài đặt thêm khi chạy chương trình bằng cách dùng pip.
